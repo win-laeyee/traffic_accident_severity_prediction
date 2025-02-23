@@ -1,4 +1,5 @@
 .DS_Store
+/venv
 
 # ignore as size exceeds Git LFS
 data/accidents.csv
