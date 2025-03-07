@@ -1,2 +1,9 @@
 .DS_Store
+
 US_Accidents_March23_sampled_500k.csv
+
+/venv
+
+# ignore as size exceeds Git LFS
+data/accidents.csv
+
