@@ -7,3 +7,4 @@ US_Accidents_March23_sampled_500k.csv
 # ignore as size exceeds Git LFS
 data/accidents.csv
 
+.DS_Store
